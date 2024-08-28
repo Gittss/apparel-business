@@ -1,0 +1,38 @@
+{
+  "T-Shirt": [
+    {
+      "quantity": 50,
+      "price": 40,
+      "code": "T-Shirt",
+      "size": "L"
+    },
+    {
+      "quantity": 656,
+      "price": 40,
+      "code": "T-Shirt",
+      "size": "M"
+    }
+  ],
+  "Jeans": [
+    {
+      "quantity": 90,
+      "price": 40,
+      "code": "Jeans",
+      "size": "S"
+    },
+    {
+      "quantity": 250,
+      "price": 300,
+      "code": "Jeans",
+      "size": "M"
+    }
+  ],
+  "Saaree": [
+    {
+      "quantity": 100,
+      "price": 1200,
+      "code": "Saaree",
+      "size": "free-size"
+    }
+  ]
+}
