@@ -94,4 +94,4 @@
 
 # Run test cases
 
-# npm test
+1. npm test
